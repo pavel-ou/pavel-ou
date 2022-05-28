@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @pavlikon
+- 🌱 I’m currently learning 🐍Python
+- 📫 Reach me on TG @pavlik_on 
