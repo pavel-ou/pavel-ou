@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @pavlikon
+- 👋 Hi, I’m @pavel-ou
 - 🌱 I’m currently learning 🐍Python
-- 📫 Reach me on TG @pavlik_on 
+- 📫 Reach me on TG @pavel_ou
